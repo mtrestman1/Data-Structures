@@ -10,7 +10,7 @@ class Heap:
     pass
 
   def get_priority(self):
-    pass
+    return self.storage[0]
 
   def get_size(self):
     pass
